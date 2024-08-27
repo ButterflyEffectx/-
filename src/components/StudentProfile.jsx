@@ -7,7 +7,7 @@ const StudentProfile = () => {
   // For demonstration, using static data:
   const student = {
     name: 'ฟิวส์ พีรภาส',
-    imageUrl: 'https://th.bing.com/th/id/OIP.Wygq6wZAmd8DoLk4hezU2wHaEK?rs=1&pid=ImgDetMain',
+    imageUrl: 'https://hilight.kapook.com/img_cms2/news_6/panda74.jpg',
     bio: 'A passionate student majoring in Computer Science. Interested in AI and software development.',
     achievements: [
       'Dean\'s List, 2023',
